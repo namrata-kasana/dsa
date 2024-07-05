@@ -13,5 +13,3 @@ class Solution:
 
 testObject = Solution()
 print(testObject.isAnagram("anagram","angaram"))
-
-
