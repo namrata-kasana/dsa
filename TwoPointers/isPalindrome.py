@@ -15,4 +15,4 @@ class Solution:
         return (ord('a') <= ord(s) <= ord('z') or ord('A') <= ord(s) <= ord('Z') or ord('0') <= ord(s) <= ord('9'))
 
 testObj=Solution()
-print(testObj.isPalindrome("racecar"))
+print(testObj.isPalindrome("racedcar"))
