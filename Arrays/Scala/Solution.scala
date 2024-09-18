@@ -1,4 +1,4 @@
-object Solution {
+object SingleNumber {
   def singleNumber(nums: Array[Int]): Int = {
     val countMap = scala.collection.mutable.HashMap[Int,Int]()
 
